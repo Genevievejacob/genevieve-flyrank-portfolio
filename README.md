@@ -32,8 +32,8 @@ The work focused on:
 **My contribution:** Developed the project vision, explored the user experience and coaching principles, and worked with AI to shape the proposed framework.
 
 
-### 3. Prompt Engineering — Week 2
-Practical work exploring prompt structure and ways to improve AI responses.
+### Week 2 — Prompt Ladder
+[View Week 2 Prompt Ladder assignment](./Week-02-Prompt-Ladder/README.md).
 
 *Deliverable link to be added.*
 
