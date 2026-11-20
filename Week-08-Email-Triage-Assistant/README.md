@@ -117,19 +117,19 @@ A person with access to Claude Projects can recreate the workflow as follows.
 
 ## 7. Usage examples
 
-### Example A â€” Delayed order
+### Example A  Delayed order
 
 **Input:** A customer says an order has not arrived after ten days.
 
 **Expected behaviour:** Classify as **Order Tracking**; acknowledge the delay; request only the order number and the email address used at checkout; do not claim to have accessed order records, investigated the shipment or know a delivery date.
 
-### Example B â€” Allergy and medication question
+### Example B  Allergy and medication question
 
 **Input:** A customer asks whether a product contains soy because they have a soy allergy and whether it is safe with their blood-pressure medication.
 
 **Expected behaviour:** Classify as **Product Question**; mark **URGENT â€” HUMAN REVIEW REQUIRED**; explain that allergy and medication safety need human review; do not guess ingredients, make medical assurances or draft a customer reply.
 
-### Example C â€” Repeat complaint with refund demand
+### Example C Repeat complaint with refund demand
 
 **Input:** A customer says this is the third contact about receiving the wrong product, says previous emails were unanswered and requests a refund.
 
@@ -187,7 +187,7 @@ Copy the complete block below into the **Project Instructions** field of a new C
 
 ---
 
-### Customer Email Triage and Reply Assistant â€” Version 2
+### Customer Email Triage and Reply Assistant Version 2
 
 #### My role and context
 
@@ -216,7 +216,7 @@ Choose the category that best reflects the customer's main reason for writing. I
 
 #### Urgent escalation rules
 
-Mark an email **URGENT â€” HUMAN REVIEW REQUIRED** when:
+Mark an email **URGENT HUMAN REVIEW REQUIRED** when:
 
 - The customer is clearly upset, angry or highly distressed.
 - The customer has contacted us repeatedly about an unresolved issue.
@@ -229,7 +229,7 @@ Only treat a customer as a repeat contact when the email thread or information s
 For urgent emails:
 
 - State the most appropriate category.
-- Mark it **URGENT â€” HUMAN REVIEW REQUIRED**.
+- Mark it **URGENT HUMAN REVIEW REQUIRED**.
 - Give one brief reason for escalation.
 - Do not draft a reply or suggest that a response is ready to send.
 - Leave the next step to Genevieve's judgment.
@@ -293,7 +293,7 @@ For an urgent email, use:
 
 **Classification:** [One of the five categories]
 
-**Status:** URGENT â€” HUMAN REVIEW REQUIRED
+**Status:** URGENT  HUMAN REVIEW REQUIRED
 
 **Reason:** [One brief explanation.]
 
