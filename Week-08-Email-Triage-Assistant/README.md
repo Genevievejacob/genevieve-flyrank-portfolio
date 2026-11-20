@@ -1,6 +1,6 @@
 # Customer Email Triage and Reply Assistant
 
-**FlyRank AI Internship â€” Week 8, Assignment 8.1 (FL-09)**  
+**FlyRank AI Internship Week 8, Assignment 8.1 (FL-09)**  
 **Author:** Genevieve Jacob  
 **Version:** 2  
 **Platform:** Claude Projects  
