@@ -16,8 +16,20 @@ A prompt-based Claude Project that classifies customer emails, drafts replies fo
 - [Project README and documentation](./Week-08-Email-Triage-Assistant/README.md)
 - [Demonstration video](https://drive.google.com/file/d/1dTwHvuegI5F3d5XS706DpHEjKMTD_rF9/view?usp=sharing)
 
-### 2. Empathic Listening Practice Companion
-A project exploring how AI can support the development of empathetic listening skills, including validation, reflection, and open-ended questions.
+### 2. Empathic Listening Practice Companion — Concept and Design Exploration
+
+An AI-assisted project concept exploring how people can develop stronger empathetic listening skills.
+
+The work focused on:
+- Defining the purpose and intended users.
+- Developing realistic listening practice scenarios.
+- Exploring emotional recognition, validation, reflection and open-ended questions.
+- Designing a coaching framework that encourages listening before offering advice.
+- Exploring how feedback could help users improve their listening responses.
+
+**Project status:** Concept development and coaching framework exploration. A standalone working application has not yet been built.
+
+**My contribution:** Developed the project vision, explored the user experience and coaching principles, and worked with AI to shape the proposed framework.
 
 *Project documentation and evidence to be added.*
 
