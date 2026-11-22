@@ -30,17 +30,19 @@ The work focused on:
 **Project status:** Concept development and coaching framework exploration. A standalone working application has not yet been built.
 
 **My contribution:** Developed the project vision, explored the user experience and coaching principles, and worked with AI to shape the proposed framework.
+### 3. Prompt Ladder — Week 2
 
+A five-stage prompt experiment exploring how context, tone, format and quality criteria improve customer-service replies.
 
-### Week 2 — Prompt Ladder
-[View Week 2 Prompt Ladder assignment](./Week-02-Prompt-Ladder/README.md).
-
-*Deliverable link to be added.*
+[View Week 2 Prompt Ladder](./Week-02-Prompt-Ladder/README.md)
 
 ### 4. Image Curation — Week 3
-Practical work involving AI-assisted image curation.
 
-*Deliverable link to be added.*
+A content map and visual identity plan for my portfolio, including image-selection decisions and a fictional customer-support demonstration.
+
+[View Week 3 Image Curation](./Week-03-Image-Curation/README.md)
+
+
 
 ## Personal Portfolio Website
 
