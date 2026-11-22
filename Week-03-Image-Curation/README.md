@@ -75,6 +75,8 @@ Rejected a full LinkedIn-style banner graphic — it used the wrong palette (nav
 ---
 
 ## Portfolio Demonstration — Fictional Customer-Support Inbox
+**View the fictional customer-support demonstration:** [Open the demo image](./1.%20fictional-customer-support-demo..png)
+
 
 Because my supervisor did not grant permission to use screenshots of the actual workplace customer-service system, I chose not to use company screenshots or customer information.
 
