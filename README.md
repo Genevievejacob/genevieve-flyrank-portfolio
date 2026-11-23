@@ -50,6 +50,10 @@ A prompt-based Claude Project that classifies customer emails, drafts replies fo
 
 **Important limitation:** The project is manually operated. It does not connect to a live customer inbox or automatically send replies. Human review remains necessary before any response is sent.
 
+## FL-10 — Final Internship Retrospective
+
+[Read my FlyRank AI Internship Retrospective](./FL-10-Retrospective.md)
+
 ## Personal Portfolio Website
 
 Visit my personal portfolio:
